@@ -1,4 +1,4 @@
-# VUE Wordpress REST API content loader
+# VUE 3 Wordpress REST API content loader
 
 ## Displays publicly available content from Wordpress website with REST API enabled. 
 

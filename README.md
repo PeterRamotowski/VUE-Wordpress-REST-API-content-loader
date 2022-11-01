@@ -2,7 +2,7 @@
 
 ## Displays publicly available content from Wordpress website with REST API enabled. 
 
-Online demo at <https://herc.usermd.net/>
+Online demo at <https://wploader.afarta.com/>
 
 ### Project setup
 ```
